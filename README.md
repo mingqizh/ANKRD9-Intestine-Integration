@@ -1,6 +1,6 @@
 # ANKRD9 Expression Correlation and Pathway Analysis
 
-This repository contains the R scripts used for the analysis of ANKRD9 expression patterns and gene correlation networks in human intestinal tissues.
+This repository contains the R scripts used in Wang et al., 2026 corresponding to the analysis of ANKRD9 expression patterns and gene correlation networks in human intestinal tissues.
 
 ## Overview
 This pipeline performs the following tasks:
